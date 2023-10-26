@@ -10,7 +10,7 @@ Define the coordinates of the two points using x1, y1,x2 and y2 and assign it wi
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4:
- Format the output to two decimal places.
+ Format and print the output to two decimal places.
 
 ### Step 5:
 End the program

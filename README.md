@@ -29,3 +29,4 @@ print("{:.2f}".format(dis))```
 
 
 ### RESULT:
+Thus  finding distance between two 2 points program  was executed successfully.

@@ -28,6 +28,5 @@ print("{:.2f}".format(dis))
 ### OUTPUT:
 ![Alt text](OUTPUT.png)
 
-
 ### RESULT:
 Thus  finding distance between two 2 points program  was executed successfully.

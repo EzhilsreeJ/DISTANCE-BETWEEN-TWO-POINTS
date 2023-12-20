@@ -16,17 +16,19 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 End the program
 ### PROGRAM:
 ```PY
+#Program to find the distance between two points.
+#Developed by:Ezhil sree J
+#RegisterNumber:23012968
 import math
 x1,y1=10,6
 x2,y2=4,2
 dis=math.sqrt((x2-x1)**2+(y2-y1)**2)
 print("{:.2f}".format(dis))
+
 ```
-  
-
-
 ### OUTPUT:
-![Alt text](OUTPUT.png)
+![image](https://github.com/EzhilsreeJ/DISTANCE-BETWEEN-TWO-POINTS/assets/144870412/0add03e1-47e0-4523-a4da-b31e422444f6)
+
 
 ### RESULT:
 Thus  finding distance between two 2 points program  was executed successfully.
